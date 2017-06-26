@@ -1,0 +1,21 @@
+{
+    "name": "antcern/laravel-paysera",
+    "description": "Paysera for Laravel 5.x",
+	"license": "MIT",
+	"keywords": ["laravel", "paysera", "webtopay"],
+    "authors": [
+        {
+            "name": "Anton Černyšiov",
+            "email": "anton.cernysiov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Antcern\\Paysera\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "hashids/hashids": "^3.0"
+    }
+}
