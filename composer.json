@@ -16,6 +16,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "hashids/hashids": "^3.0"
+        "hashids/hashids": "^2.0"
     }
 }
